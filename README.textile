@@ -1,6 +1,7 @@
 h1. Animated and Dynamic Adobe AIR Icons
 
 h3. Overview
+
 <i>TaskbarIcon</i>, <i>TaskbarIconData</i> and <i>TaskbarIconSnapshot</i> classes provides functionality to create animated and dynamic Adobe AIR application icons. Usage is very similar to <i>Mouse</i> and <i>MouseCursorData</i> classes available since Flash Player 10.2, AIR 2.6.
 
 <pre>
